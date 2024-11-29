@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Baker",
+            "description": "I am baker",
+            "images": [
+                "https://www.pexels.com/photo/traditional-japanese-storefront-in-inuyama-japan-28922850/"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Ali",
+            "description": "I am Ali",
+            "images": [
+                "https://www.pexels.com/photo/traditional-japanese-storefront-in-inuyama-japan-28922850/"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "bali",
+            "description": "I am Bali",
+            "images": [
+                "https://www.pexels.com/photo/traditional-japanese-storefront-in-inuyama-japan-28922850/"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Hader",
+            "description": "I am Hader",
+            "images": [
+                "https://www.pexels.com/photo/traditional-japanese-storefront-in-inuyama-japan-28922850/"
+            ]
+        }
+    ]
+}
