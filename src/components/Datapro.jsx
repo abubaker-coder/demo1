@@ -11,7 +11,7 @@ const Datapro = () => {
         
   return (
     <div>
-      <h1>Data</h1>
+      <h1>Data hello</h1>
     </div>
   )
 }
