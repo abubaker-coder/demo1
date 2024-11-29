@@ -6,7 +6,8 @@ const Dataprocard = () => {
     <div>
       <Card
   style={{
-    width: '18rem'
+    width: '18rem',
+    margin: 'auto'
   }}
       >
   <img

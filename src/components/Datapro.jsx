@@ -12,7 +12,13 @@ const Datapro = () => {
     <div>
       <Container>
       <Row xs="2">
-           <Col xs={12} sm={12} md={6} lg={3} className="bg-light border"> 
+           <Col xs={12} sm={12} md={6} lg={3} className="my-3"> 
+                <Dataprocard/>
+           </Col>
+           <Col xs={12} sm={12} md={6} lg={3} className="my-3"> 
+                <Dataprocard/>
+           </Col>
+           <Col xs={12} sm={12} md={6} lg={3} className="my-3"> 
                 <Dataprocard/>
            </Col>
       </Row>
