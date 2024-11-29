@@ -1,18 +1,22 @@
 import React, { useState } from 'react'
 import Data from '../Data/Data.json'
 import Dataprocard from './Dataprocard'
+import { Container, Row, Col } from 'reactstrap'
 
 const Datapro = () => {
 
     const [products, setProducts] = useState(Data.products)
-    products.map(prod =>{
-        console.log(prod);
-        
-    })
+   
         
   return (
     <div>
-      <Dataprocard/>
+      <Container>
+      <Row xs="2">
+           <Col xs={12} sm={12} md={6} lg={3} className="bg-light border"> 
+                <Dataprocard/>
+           </Col>
+      </Row>
+      </Container>
     </div>
   )
 }

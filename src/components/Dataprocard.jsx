@@ -1,4 +1,5 @@
 import React from 'react'
+import { Card, CardBody, CardSubtitle, CardTitle, CardText, Button} from 'reactstrap'
 
 const Dataprocard = () => {
   return (
