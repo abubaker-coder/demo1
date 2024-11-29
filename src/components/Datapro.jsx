@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Data from '../Data/Data.json'
+import Dataprocard from './Dataprocard'
 
 const Datapro = () => {
 
@@ -11,7 +12,7 @@ const Datapro = () => {
         
   return (
     <div>
-      <h1>Data hello</h1>
+      <Dataprocard/>
     </div>
   )
 }
